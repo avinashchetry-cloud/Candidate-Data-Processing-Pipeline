@@ -1,0 +1,14 @@
+## Dataset
+
+The analysis in this repository was performed on the complete dataset.
+
+The original dataset is not included because it exceeds GitHub's 100 MB file size limit.
+
+Download the dataset here:
+`https://drive.google.com/drive/folders/1A-t36xLLTkl6gy6UblSCCgGX7tW6OVAM`
+
+After downloading, place the CSV file inside the `data/` folder.
+
+## Analysis
+
+Run the notebook in order from top to bottom after placing the dataset in the correct location.
